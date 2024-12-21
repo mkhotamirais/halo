@@ -1,3 +1,3 @@
 <?php
 
-echo "halo semua";
+echo "halo semua nya";
